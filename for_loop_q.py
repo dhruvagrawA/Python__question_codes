@@ -163,7 +163,7 @@ for i in range(1,n+1):
   if(n%i==0):
    print(i , end = " ")
 
-#q 17
+#q 18
 n = int(input("enter a number : "))
 count = 0
 total = 0
